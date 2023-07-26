@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace CSPractice
 {
-    public class Program
+    public class BasicStructure
     {
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
 
             // USE TO CHNAGE CONSOLE VIEW
@@ -26,6 +26,6 @@ namespace CSPractice
             string name = Console.ReadLine();
             Console.WriteLine($"Hi {name} ! \nWelcome to C# ");
             
-        }
+        }*/
     }
 }
